@@ -1,4 +1,4 @@
-NBA Project
+🏀 NBA Project
 
 A set of various project I've done on the theme of NBA. 
 In my first formation in a bootcamp of Vivadata (Artefact School of data), I've made a final data project around NBA. From this first idea, several extension have come after.
