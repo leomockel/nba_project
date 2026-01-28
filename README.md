@@ -26,22 +26,15 @@ which lead to the last issue : this doesn't take account of injury or transfer d
 📊 Data Analysis on PowerBI (EDC Business School)
 
 
+⚡ Optimized strategy for a cleaner Machine Learning Project
 
-🔍 Look for new release every month on allocine.fr, retrieval of IMDb IDs for each movies
 
-⚡ Optimized scraping with multithreading
 
-🗄️ PostgreSQL database integration
-
-📊 Data Analysis on PowerBI (directly linked to the database)
-
-🎬 Update your list of watched movies using a Streamlit app
-
-🔐 Secure environment variable management using .env
 
 🛠️ Tech Stack
 
 Python 3.10+ Pandas BeautifulSoup Jupyter Notebook Dash/Plotly
+
 📦 Installation
 
 1️⃣ Clone the repository git clone git@github.com:your-username/nba_project.git cd nba_project
@@ -54,7 +47,7 @@ Python 3.10+ Pandas BeautifulSoup Jupyter Notebook Dash/Plotly
 
 🧠 Future Improvements
 
-Convert the notebooks in Streamlit apps Add detailed description for each file
+Collecting data to show the strategy I've used in my first project.
 
 👤 Author
 
