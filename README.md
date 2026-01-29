@@ -7,7 +7,7 @@ In my first formation in a bootcamp of Vivadata (Artefact School of data), I've 
 🚀 The beginning (Bootcamp)
 
 First, I've collected my data with the nba_api. I'm working on the examination of all the files I've done at this period to properly explain what has been done.
-The result of this work is the Dash/Plotly application contained in the First_nba_app folder which consist of an interactive page to use features I've learned and get informations 
+The result of this work is the Dash/Plotly application contained in the First_nba_app folder which consist of an interactive page to use features I've learnt and get informations 
 on players and teams during 20 years of NBA (2001 - 2020).
 
 Close to the deadline, I've had an idea to create a model of Machine Learning to predict the victory of a team by comparing the players (a notebook is also in the folder). 
@@ -25,10 +25,13 @@ which lead to the last issue : this doesn't take account of injury or transfer d
 
 📊 Data Analysis on PowerBI (EDC Business School)
 
+For a final project in my PowerBI course, I've used my data obtained by the first project to make a presentation. As it was not only a demonstration of the tools I've 
+learnt for dash, it was more oriented as an history to show what we could extract from this. 
+
 
 ⚡ Optimized strategy for a cleaner Machine Learning Project
 
-
+To generalize my first attempt of Machine Learning for more years and in a better way, I've come with a new stategy : instead of simulating the games with the supposed roster (with th eI won't go into details on this but from there (and the first presentation), we could show that since 2015, NBA players have initiated a change in the way the game is played. Player are effective younger, there are more 3 pointers taken, even by front court players 
 
 
 🛠️ Tech Stack
